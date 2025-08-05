@@ -12,6 +12,12 @@ The game is accessible only on Windows as an `.exe`, you can download the `.zip`
 
 ---
 
+## Easter Eggs
+
+Check out this guide for common game easter eggs, don't watch if you don't want spoilers
+
+- https://youtu.be/-FJU98WxWoo
+
 ## Installation
 
 1. Unzip `Melodie_Pet_Game.zip`
