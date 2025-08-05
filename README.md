@@ -6,7 +6,7 @@ A virtual pet simulator built with Pygame, care for **Melodie**, a little idol t
 
 ## Download
 
-The game is accesible only on Windows as an `.exe`, you can download the `.zip` here:
+The game is accessible only on Windows as an `.exe`, you can download the `.zip` here:
 
 - [Download Melodie_Pet_Game.zip (MediaFire)](https://www.mediafire.com/file/l35eom1p8h1iz3q/Melodie_Game.zip/file)
 
